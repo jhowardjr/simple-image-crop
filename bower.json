@@ -1,0 +1,15 @@
+{
+  "name": "simple-image-crop",
+  "version": "0.0.2",
+  "homepage": "https://github.com/jhowardjr/simple-image-crop",
+  "description": "Angular Directive Based on http://marinkrmpotic.com/simpleimagecrop/",
+  "main": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
